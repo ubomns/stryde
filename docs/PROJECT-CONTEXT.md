@@ -19,7 +19,8 @@
 - **G10 Polish:** Completed on 2026-10-21
 - **G11 Docs / Closeout:** Completed on 2026-10-21
 - **GitHub repository:** https://github.com/ubomns/stryde
-- **Current gate:** G11 Docs / Closeout
+- **Current gate:** G9 Ship / DevOps
+- **Next session focus:** Optimize n8n workflow to respond under 10s, then verify live searches succeed
 - **Portfolio-demo note:** This is a skills-demo project; non-critical constraints (e.g., advanced analytics, extensive error-state polish, full test coverage) can be pragmatically deferred, but the API contract must still be locked before parallel build.
 
 ## Gate G6 Code Review
