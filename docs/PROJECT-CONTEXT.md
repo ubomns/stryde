@@ -13,9 +13,12 @@
 - **G6 Code Review:** Approved on 2026-10-21
 - **G7 Debug / QA:** Approved on 2026-10-21
 - **G8 Harden:** Approved on 2026-10-21
-- **G9 Ship / DevOps:** Ready for first Vercel preview deployment
+- **G9 Ship / DevOps:** Deployed to Vercel production (pending n8n latency optimization)
+  - Production URL: https://jobs-leads-search.vercel.app
+  - Vercel project: https://vercel.com/ubomns/jobs-leads-search
 - **G10 Polish:** Completed on 2026-10-21
 - **G11 Docs / Closeout:** Completed on 2026-10-21
+- **GitHub repository:** https://github.com/ubomns/stryde
 - **Current gate:** G11 Docs / Closeout
 - **Portfolio-demo note:** This is a skills-demo project; non-critical constraints (e.g., advanced analytics, extensive error-state polish, full test coverage) can be pragmatically deferred, but the API contract must still be locked before parallel build.
 
