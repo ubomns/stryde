@@ -1,0 +1,13 @@
+
+> jl-frontend@0.1.0 start
+> next start --port 3003
+
+⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3003
+    at new Promise (<anonymous>) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}

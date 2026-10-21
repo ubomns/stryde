@@ -1,0 +1,70 @@
+{
+  "mode": "jobs",
+  "intent_summary": "Senior React engineering roles that are fully remote at US-based companies",
+  "assumptions": [
+    "Focused on full-time permanent roles; contracts excluded",
+    "No specific salary range specified",
+    "Remote means anywhere in the United States unless stated otherwise"
+  ],
+  "leads": [
+    {
+      "type": "job",
+      "company": "Vercel Inc.",
+      "domain": "vercel.com",
+      "location": "United States",
+      "remote_status": "Remote",
+      "opportunity": "Senior Software Engineer - React Frameworks",
+      "source_url": "https://vercel.com/careers/senior-software-engineer-react",
+      "why_it_fits": "Hiring specifically for React core contributors and Next.js experts",
+      "priority": "High",
+      "posted_date": "2026-10-15",
+      "days_old": 5,
+      "contacts": [
+        {
+          "name": "Sarah Chen",
+          "title": "Engineering Manager",
+          "email": "s.chen@vercel.com",
+          "email_status": "valid",
+          "linkedin_url": "https://www.linkedin.com/in/sarahchen"
+        }
+      ]
+    },
+    {
+      "type": "job",
+      "company": "Linear",
+      "domain": "linear.app",
+      "location": "United States",
+      "remote_status": "Remote",
+      "opportunity": "Staff Frontend Engineer",
+      "source_url": "https://linear.app/careers/staff-frontend-engineer",
+      "why_it_fits": "Strong React/TypeScript product culture with remote-first policy",
+      "priority": "High",
+      "posted_date": "2026-10-17",
+      "days_old": 3,
+      "contacts": []
+    },
+    {
+      "type": "job",
+      "company": "Notion",
+      "domain": "notion.so",
+      "location": "United States",
+      "remote_status": "Hybrid",
+      "opportunity": "Senior Frontend Engineer - Editor Team",
+      "source_url": "https://www.notion.so/careers/senior-frontend-engineer-editor",
+      "why_it_fits": "Editor team builds complex React-based collaborative UI",
+      "priority": "Medium",
+      "posted_date": "2026-10-10",
+      "days_old": 10,
+      "contacts": [
+        {
+          "name": "Marcus Johnson",
+          "title": "Recruiter",
+          "email": "marcus@notion.so",
+          "email_status": "unknown",
+          "linkedin_url": ""
+        }
+      ]
+    }
+  ],
+  "notes": ""
+}

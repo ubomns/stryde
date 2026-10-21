@@ -1,0 +1,12 @@
+{
+  "error": {
+    "code": "VALIDATION_ERROR",
+    "message": "Query must be between 10 and 1000 characters.",
+    "details": {
+      "field": "query",
+      "received": 5,
+      "minimum": 10,
+      "maximum": 1000
+    }
+  }
+}

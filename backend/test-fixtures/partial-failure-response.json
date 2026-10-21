@@ -1,0 +1,33 @@
+{
+  "mode": "clients",
+  "intent_summary": "SaaS fintech startups in Europe",
+  "assumptions": [
+    "Focused on companies with public websites",
+    "European timezone preferred"
+  ],
+  "leads": [
+    {
+      "type": "client",
+      "company": "Finnovate Ltd",
+      "domain": "finnovate.example",
+      "location": "London, UK",
+      "remote_status": "Hybrid",
+      "opportunity": "Hiring Account Executives",
+      "source_url": "https://finnovate.example/careers",
+      "why_it_fits": "Early-stage fintech SaaS expanding sales team",
+      "priority": "High",
+      "posted_date": "2026-10-15",
+      "days_old": 5,
+      "contacts": [
+        {
+          "name": "John Smith",
+          "title": "VP of Sales",
+          "email": "john@finnovate.example",
+          "email_status": "unknown",
+          "linkedin_url": "https://linkedin.com/in/johnsmith"
+        }
+      ]
+    }
+  ],
+  "notes": "Hunter contact verification was temporarily unavailable; emails could not be verified and may be missing or unconfirmed."
+}

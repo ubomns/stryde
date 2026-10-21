@@ -1,0 +1,24 @@
+
+> jl-frontend@0.1.0 dev
+> next dev --port 3002
+
+⚠ You are using a non-standard "NODE_ENV" value in your environment. This creates inconsistencies in the project and is strongly advised against. Read more: https://nextjs.org/docs/messages/non-standard-node-env
+▲ Next.js 16.4.2 (Turbopack)
+- Local:         http://localhost:3002
+- Network:       http://10.205.134.136:3002
+- Environments: .env.local
+✓ Ready in 2.7s
+⚠ Warning: Next.js ignored package-lock.json in C:\Users\DELL because it would include your home directory (C:\Users\DELL).
+ To use this directory, set `turbopack.root` in your Next.js config.
+
+✓ Running next.config.ts took 387ms
+⨯ Another next dev server is already running.
+
+- Local:        http://localhost:3000
+- PID:          44672
+- Dir:          C:\Users\DELL\Documents\project\jobs-leads-search
+- Log:          .next\dev\logs\next-development.log
+
+You can access the existing server at http://localhost:3000,
+or run taskkill /PID 44672 /F to stop it and start a new one.
+[?25h

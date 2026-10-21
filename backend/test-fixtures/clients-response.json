@@ -1,0 +1,56 @@
+{
+  "mode": "clients",
+  "intent_summary": "SaaS fintech startups in Europe that are currently hiring sales talent",
+  "assumptions": [
+    "Target companies have public career pages mentioning sales roles",
+    "European focus means UK, Germany, France, Netherlands, and Nordics",
+    "Startups defined as companies with 10-250 employees or recent Series A-C funding"
+  ],
+  "leads": [
+    {
+      "type": "client",
+      "company": "Finnovate Ltd",
+      "domain": "finnovate.example",
+      "location": "London, UK",
+      "remote_status": "Hybrid",
+      "opportunity": "Hiring Account Executives - expanding sales team",
+      "source_url": "https://finnovate.example/careers",
+      "why_it_fits": "Early-stage fintech SaaS with active AE hiring signals outbound sales tooling need",
+      "priority": "High",
+      "posted_date": "2026-10-15",
+      "days_old": 5,
+      "contacts": [
+        {
+          "name": "John Smith",
+          "title": "VP of Sales",
+          "email": "john@finnovate.example",
+          "email_status": "valid",
+          "linkedin_url": "https://linkedin.com/in/johnsmith"
+        }
+      ]
+    },
+    {
+      "type": "client",
+      "company": "PayFlow UG",
+      "domain": "payflow.example",
+      "location": "Berlin, Germany",
+      "remote_status": "On-site",
+      "opportunity": "Hiring Sales Development Representatives",
+      "source_url": "https://payflow.example/jobs",
+      "why_it_fits": "B2B payments startup scaling SDR team indicates demand for prospecting tools",
+      "priority": "Medium",
+      "posted_date": "2026-10-12",
+      "days_old": 8,
+      "contacts": [
+        {
+          "name": "Lisa Weber",
+          "title": "Head of Growth",
+          "email": "lisa@payflow.example",
+          "email_status": "valid",
+          "linkedin_url": "https://linkedin.com/in/lisaweber"
+        }
+      ]
+    }
+  ],
+  "notes": ""
+}

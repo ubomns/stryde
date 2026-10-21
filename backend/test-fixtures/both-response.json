@@ -1,0 +1,62 @@
+{
+  "mode": "both",
+  "intent_summary": "n8n workflow automation opportunities in Berlin",
+  "assumptions": [
+    "Combined job listings and prospective client companies",
+    "Berlin-focused but includes remote-friendly companies based in Berlin",
+    "Automation interest inferred from job titles, career pages, and ops team growth"
+  ],
+  "leads": [
+    {
+      "type": "job",
+      "company": "Workflow GmbH",
+      "domain": "workflow.example",
+      "location": "Berlin, Germany",
+      "remote_status": "Hybrid",
+      "opportunity": "Automation Engineer",
+      "source_url": "https://workflow.example/jobs/42",
+      "why_it_fits": "Actively hiring for n8n automation expertise",
+      "priority": "High",
+      "posted_date": "2026-10-18",
+      "days_old": 2,
+      "contacts": []
+    },
+    {
+      "type": "client",
+      "company": "ProcessFirst UG",
+      "domain": "processfirst.example",
+      "location": "Berlin, Germany",
+      "remote_status": "On-site",
+      "opportunity": "Hiring operations talent - likely automation needs",
+      "source_url": "https://processfirst.example/careers",
+      "why_it_fits": "Growing ops team signals automation consulting opportunity",
+      "priority": "Medium",
+      "posted_date": "2026-10-16",
+      "days_old": 4,
+      "contacts": [
+        {
+          "name": "Anna Müller",
+          "title": "Head of Operations",
+          "email": "anna@processfirst.example",
+          "email_status": "valid",
+          "linkedin_url": "https://linkedin.com/in/annamueller"
+        }
+      ]
+    },
+    {
+      "type": "client",
+      "company": "OpsScale GmbH",
+      "domain": "opsscale.example",
+      "location": "Berlin, Germany",
+      "remote_status": "Hybrid",
+      "opportunity": "Scaling customer-ops team with workflow tooling",
+      "source_url": "https://opsscale.example/about#careers",
+      "why_it_fits": "Series B startup expanding ops team and hiring automation-focused roles",
+      "priority": "Medium",
+      "posted_date": "2026-10-14",
+      "days_old": 6,
+      "contacts": []
+    }
+  ],
+  "notes": ""
+}
